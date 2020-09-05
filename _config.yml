@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc @ UW Madison"
   location         : "Madison, Wisconsin"
-  employer         : Stephen J. Wright
+  employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fxIfAckAAAAJ&hl=en"
   email            :
@@ -113,8 +113,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCkVBKDEl0ACs4-mIEK_VLDw"
-  wikipedia        :
+  youtube          : "https://www.youtube.com/channel/UCkVBKDEl0ACs4-mIEK_VLDw" 
+  wikipedia        : 
 
 
 # Reading Files
