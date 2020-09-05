@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=fxIfAckAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.youtube.com/channel/UCkVBKDEl0ACs4-mIEK_VLDw"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "channel/UCkVBKDEl0ACs4-mIEK_VLDw" 
+  youtube          : # "channel/UCkVBKDEl0ACs4-mIEK_VLDw" 
   wikipedia        : 
 
 
