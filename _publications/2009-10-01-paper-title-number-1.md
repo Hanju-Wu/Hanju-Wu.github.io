@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "On robust solutions to uncertain monotone linear complementarity problems
+(LCPs) and their variants"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/robustlcp-CDC
+excerpt: ''
+date: 
+venue: ''
+paperurl: 'https://doi.org/10.1109/CDC.2014.7039824'
+citation: 'Yue Xie and Uday V. Shanbhag. (2014). &quot;On robust solutions to uncertain monotone linear complementarity problems
+(LCPs) and their variants.&quot; <i>53rd IEEE Annual Conference on Decision and Control (CDC), Los Angeles, CA,
+2014, pp. 2834-2839</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Find paper here](https://doi.org/10.1109/CDC.2014.7039824)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yue Xie and Uday V. Shanbhag, On robust solutions to uncertain monotone linear complementarity problems
+(LCPs) and their variants. <i>53rd IEEE Annual Conference on Decision and Control (CDC), Los Angeles, CA, 2014,</i>.
