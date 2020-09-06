@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yue Xie is a PhD candidate and research assistant in Department of Industrial and Manufacturing Engineering, Pennsylvania State University. His research interests include stochastic optimization, convex optimization, sparse nonconvex learning, and robust optimization.
-Yue Xie graduated from Tsinghua University in China from 2009 to 2013 and received a Bachelor degree in Pure and Applied Mathematics. He has been a PhD student in PSU IME since 2013, and became a PhD candidate in Aug, 2015. During his graduate study at Penn State, he was honored with Marcus Fellowship in 2013 and 2014.
-More details can be found in his CV. $\Omega$
+Welcome to my website! I am a postdoc at Wisconsin Intitute for Discovery currently and lucky to work with Professor Stephen J. Wright. Before that, I received my PhD degree in Pennsylvania State University when I was fortunate to have Professor Uday V. Shanbhag as my supervisor and thesis advisor. You may find more details about me in my [CV](https://yue-xie.github.io/files/CV_YueXie_2020.pdf).
 
 [academicpages template](https://github.com/academicpages/academicpages.github.io) 
 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 
