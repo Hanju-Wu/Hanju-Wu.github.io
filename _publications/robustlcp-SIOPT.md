@@ -1,6 +1,7 @@
 ---
 title: "On robust solutions to uncertain linear complementarity problems and their variants"
 collection: publications
+permalink: /publication/robustlcp-SIOPT
 excerpt: 'Extended journal version of the conference paper of the same name.'
 date: 2016-10-19
 venue: 'SIAM Journal on Optimization'
