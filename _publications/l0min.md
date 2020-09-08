@@ -1,5 +1,5 @@
 ---
-title: "Tractable ADMM schemes for computing KKT points and local minimizers for $\ell_0$-minimization problems"
+title: "Tractable ADMM schemes for computing KKT points and local minimizers for $l_0$-minimization problems"
 collection: publications
 permalink: /publication/l0min-COAP
 excerpt: 'This paper is accepted in August, 2020'
