@@ -2,7 +2,7 @@
 title: "SI-ADMM:A stochastic inexact ADMM framework for stochastic convex programs"
 collection: publications
 permalink: /publication/SI-ADMM-TAC
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Extended journal version of the conference paper under a similar name.'
 date: 2019-11-13
 venue: 'IEEE Transactions on Automatic Control'
 paperurl: 'https://doi.org/10.1109/TAC.2019.2953209'
