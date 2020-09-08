@@ -1,7 +1,7 @@
 ---
 title: "A stochastic inexact ADMM framework for stochastic convex programs"
 collection: publications
-permalink: /publication/stochasticADMM
+permalink: /publication/SI-ADMM-TAC
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-11-13
 venue: 'IEEE Transactions on Automatic Control'
