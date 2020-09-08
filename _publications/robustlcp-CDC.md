@@ -1,16 +1,13 @@
 ---
-title: "On robust solutions to uncertain monotone linear complementarity problems
-(LCPs) and their variants"
+title: "On robust solutions to uncertain linear complementarity problems and their variants"
 collection: publications
-permalink: /publication/robustlcp-CDC
+permalink: /publication/robustlcp-SIOPT
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2014-12-15
-venue: '53rd IEEE Annual Conference on Decision and Control (CDC)'
-paperurl: 'https://doi.org/10.1109/CDC.2014.7039824'
-citation: 'Yue Xie and Uday V. Shanbhag. (2014). &quot;On robust solutions to uncertain monotone linear complementarity problems
-(LCPs) and their variants.&quot; <i>53rd IEEE Annual Conference on Decision and Control (CDC), Los Angeles, CA,
-2014, pp. 2834-2839</i>.'
+date: 2016-10-19
+venue: 'SIAM Journal on Optimization'
+paperurl: 'https://doi.org/10.1137/15M1010427'
+citation: 'Yue Xie and Uday V. Shanbhag. (2016). &quot;On robust solutions to uncertain linear complementarity problems and their variants.&quot; <i>SIAM Journal on Optimization</i>. 26(4), pp. 2020-2159.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Find paper here](https://doi.org/10.1109/CDC.2014.7039824)
+[Find paper here](https://doi.org/10.1137/15M1010427)
