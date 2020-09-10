@@ -2,7 +2,7 @@
 title: "Tractable ADMM schemes for computing KKT points and local minimizers for $l_0$-minimization problems"
 collection: publications
 permalink: /publication/l0min-COAP
-excerpt: 'This paper is accepted in August, 2020'
+excerpt: 'This paper is accepted in August, 2020 and will appear in Computational Optimization and Application soon.'
 date: 2021-01-01
 venue: 'Computational Optimization and Application'
 paperurl: 'https://arxiv.org/abs/1710.04613'
