@@ -13,4 +13,4 @@ Welcome to my website! I am looking for tenure-track assistant professor positio
 
 ## News
 
-I just submitted my work with Steve on Complexity of Projected Newton-CG Methods for Bound-constrained Optimization. Check it out! https://arxiv.org/abs/2103.15989
+I just submitted my work with Steve on Complexity of Projected Newton-CG Methods for Bound-constrained Optimization. Check it out! [https://arxiv.org/abs/2103.15989](https://arxiv.org/abs/2103.15989)
