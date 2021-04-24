@@ -1,7 +1,7 @@
 ---
 title: "Complexity of Projected Newton Methods for Bound-constrained Optimization"
 collection: publications
-permalink: /publication/PAL-JOMP
+permalink: /publication/PNCG
 excerpt: ''
 date: 202X-XX-XX
 venue: ''
