@@ -3,8 +3,8 @@ title: "Complexity of projected Newton methods for bound-constrained optimizatio
 collection: publications
 permalink: /publication/PNCG
 excerpt: ''
-date: 202X-XX-XX
-venue: ''
+date: 2021-03-29
+venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2103.15989'
 citation: 'Yue Xie and Stephen J. Wright. &quot;Complexity of projected Newton methods for bound-constrained optimization.&quot; <i>arXiv preprint, arXiv: 2103.15989.</i>.'
 ---
