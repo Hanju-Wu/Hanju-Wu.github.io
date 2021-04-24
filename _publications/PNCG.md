@@ -2,7 +2,7 @@
 title: "Complexity of projected Newton methods for bound-constrained optimization"
 collection: publications
 permalink: /publication/PNCG
-excerpt: ''
+excerpt: 'Submitted and under review'
 date: 2021-03-29
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2103.15989'
