@@ -1,5 +1,5 @@
 ---
-title: "Complexity of Projected Newton Methods for Bound-constrained Optimization"
+title: "Complexity of projected Newton methods for bound-constrained optimization"
 collection: publications
 permalink: /publication/PNCG
 excerpt: ''
