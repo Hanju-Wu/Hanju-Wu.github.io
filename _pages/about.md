@@ -15,6 +15,6 @@ Welcome to my website! Currently I am a research assistant professor in Departme
 
 ## News
 
-Nov 1, 2021: I started my Research Assistant Professor position in Department of Mathematics and Institute of Data Science at the University of Hong Kong.
+Nov 1, 2021: I started my Research Assistant Professor position in [Department of Mathematics](https://hkumath.hku.hk/web/index.php) and Institute of Data Science at the University of Hong Kong.
 
 Mar 29, 2021: I just submitted my work with Steve on Complexity of Projected Newton-CG Methods for Bound-constrained Optimization. Check it out! [https://arxiv.org/abs/2103.15989](https://arxiv.org/abs/2103.15989)
