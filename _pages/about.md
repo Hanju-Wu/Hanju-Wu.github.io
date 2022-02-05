@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my website! Currently I am a research assistant professor in Department of Mathematics and Institute of Data Science at University of Hong Kong. Before that, I was a postdoc at Wisconsin Intitute for Discovery and lucky to work with Professor [Stephen J. Wright](http://pages.cs.wisc.edu/~swright/). I received my PhD degree in Pennsylvania State University when I was fortunate to have Professor [Uday V. Shanbhag](http://www.personal.psu.edu/vvs3/) as my supervisor and thesis advisor. My research interests include nonconvex, stochastic and robust optimization, with all types of applications. You may find more about me in my [CV](https://yue-xie.github.io/files/CV_YueXie_2022.pdf).
 
-### I am hiring a postdoc at University of Hong Kong. More details can be found at [https://jobs.hku.hk/en/job/511320/postdoctoral-fellow](https://jobs.hku.hk/en/job/511320/postdoctoral-fellow).
+### I am hiring a postdoc at University of Hong Kong. Feel free to contact me (yxie21@hku.hk) if you are interested! 
 
 ## News
 
