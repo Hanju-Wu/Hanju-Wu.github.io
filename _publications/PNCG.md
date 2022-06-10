@@ -2,7 +2,7 @@
 title: "Complexity of a Projected Newton-CG Method for Optimization with Bounds"
 collection: publications
 permalink: /publication/PNCG
-excerpt: 'Submitted to Mathematical Programming and under 2nd round review'
+excerpt: 'Submitted to <i>Mathematical Programming</i> and under 2nd round review'
 date: 2021-03-29
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2103.15989'
