@@ -15,6 +15,4 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ## News
 
-Nov 1, 2021: I started my Research Assistant Professor position in [Department of Mathematics](https://hkumath.hku.hk/web/index.php) and [Musketeers Foundation Institute of Data Science](https://datascience.hku.hk) at the University of Hong Kong.
-
-Mar 29, 2021: I just submitted my work with Steve on Complexity of Projected Newton-CG Methods for Bound-constrained Optimization. Check it out! [https://arxiv.org/abs/2103.15989](https://arxiv.org/abs/2103.15989)
+Dec 15, 2022: Check out our new work on random block coordinate descent methods for computing optimal transport and convergence analysis! [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
