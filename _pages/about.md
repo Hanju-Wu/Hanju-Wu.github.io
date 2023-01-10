@@ -19,4 +19,4 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 Dec 15, 2022: Check out our new work on random block coordinate descent methods for computing optimal transport and convergence analysis! [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
 
-Those who look for postgraduate study at HKU are welcom to check out HKU Summer Research Programme 2023: [https://datascience.hku.hk/study/summer-research-programme/](https://datascience.hku.hk/study/summer-research-programme/)
+Those who look for postgraduate study at HKU-IDS are welcom to check out HKU Summer Research Programme 2023: [https://datascience.hku.hk/study/summer-research-programme/](https://datascience.hku.hk/study/summer-research-programme/)
