@@ -13,6 +13,10 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ### I am hiring postdocs and research assistants at University of Hong Kong. Outstanding candidates for Phd position are also welcome! Feel free to contact me (yxie21@hku.hk) if you are interested! 
 
+
+
 ## News
 
 Dec 15, 2022: Check out our new work on random block coordinate descent methods for computing optimal transport and convergence analysis! [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
+
+Those who look for postgraduate study at HKU are welcom to check out HKU Summer Research Programme 2023: [https://datascience.hku.hk/study/summer-research-programme/](https://datascience.hku.hk/study/summer-research-programme/)
