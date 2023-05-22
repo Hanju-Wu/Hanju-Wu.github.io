@@ -25,7 +25,7 @@ Work&Research experience
 * 2022.07-2022.09: Research Assistant
   * BICMR, Peking University
   * Supervisor: Professor Zaiwen Wen
-  * Duty: Software development of composite optimization [OptSuite](https://github.com/Hanju-Wu/OptSuite)
+  * Duty: [Software implementation for proximal gradient methods](https://github.com/Hanju-Wu/OptSuite)
 
 * 2023.06-present: Research Assistant
   * Department of Mathematics, The University of Hong Kong
