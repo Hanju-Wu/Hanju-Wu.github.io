@@ -31,7 +31,7 @@ Work&Research experience
   * Supervisor: Dr Yue Xie
 
 * 2022.12-2023.04: Undergraduate Thesis
-  * Topic: [Complexity of two-metric projection method for Bound-constrained Optimization](files/slide.pdf)
+  * Topic: [Complexity of two-metric projection method for Bound-constrained Optimization](https://Hanju-Wu.github.io/files/slide.pdf)
   * Advisor: Dr Yue Xie
 
 Skills
