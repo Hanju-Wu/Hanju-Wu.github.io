@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,7 +29,11 @@ Work&Research experience
 * 2023.06-present: Research Assistant
   * Department of Mathematics, The University of Hong Kong
   * Supervisor: Dr Yue Xie
-  
+
+* 2022.12-2023.04: Undergraduate Thesis
+  * Topic: [Complexity of two-metric projection method for Bound-constrained Optimization](files/slide.pdf)
+  * Advisor: Dr Yue Xie
+
 Skills
 ======
 * Programming:
