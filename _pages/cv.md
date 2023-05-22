@@ -20,7 +20,7 @@ Honors and Awards(Selected)
 * 2022 First-Class Scholarship(top 5%), Sun Yat-Sen University
 * 2021 First Prize, Contemporary Undergraduate Mathematical Contest in Modeling
 
-Work experience
+Work&Research experience
 ======
 * 2022.07-2022.09: Research Assistant
   * BICMR, Peking University
