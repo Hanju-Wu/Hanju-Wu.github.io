@@ -14,11 +14,11 @@ Education
 * B.S. in Mathematics, Sun Yat-sen University, 2019-2023
   * CGPA: 4.1/5.0 (91/100)
   * Major GPA: 4.3/5.0 (93/100)
-  * Rank: top 3%
 
-Honors and Awards
+Honors and Awards(Selected)
 ======
-* 2022 # First-Class Scholarship(top 5%), Sun Yat-Sen University
+* 2022 First-Class Scholarship(top 5%), Sun Yat-Sen University
+* 2021 First Prize, Contemporary Undergraduate Mathematical Contest in Modeling
 
 Work experience
 ======
