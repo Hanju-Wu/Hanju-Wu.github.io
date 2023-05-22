@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yue Xie"
+title                    : "Hanju Wu"
 title_separator          : "-"
-name                     : &name "Dr. Yue Xie"
+name                     : &name "Hanju Wu"
 description              : &description "personal description"
-url                      : https://yue-xie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Hanju-Wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yue-xie/yue-xie.github.io"
+repository               : "Hanju-Wu/Hanju-Wu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yue Xie"
+  name             : "Hanju Wu"
   avatar           : "YueXie.png"
-  bio              : "RAP @ HKU"
+  bio              : "RA @ HKU"
   location         : "Hong Kong, China"
   employer         :  
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fxIfAckAAAAJ&hl=en"
-  email            : "yxie21@hku.hk"
+  googlescholar    : 
+  email            : "wuhj@hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yue-xie"
+  github           : "Hanju-Wu"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,10 +113,10 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "channel/UCkVBKDEl0ACs4-mIEK_VLDw"
+  youtube          : # "channel/UCkVBKDEl0ACs4-mIEK_VLDw"
   wikipedia        : 
-  publons          : "https://publons.com/researcher/1390369/yue-xie/"
-  youtubechannel   : "https://www.youtube.com/channel/UCkVBKDEl0ACs4-mIEK_VLDw"
+  publons          : # "https://publons.com/researcher/1390369/yue-xie/"
+  youtubechannel   : # "https://www.youtube.com/channel/UCkVBKDEl0ACs4-mIEK_VLDw"
 
 
 # Reading Files
