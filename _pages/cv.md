@@ -15,11 +15,11 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Assistant
+* 2022.07-2022.09: Research Assistant
   * BICMR, Peking University
   * Supervisor: Professor Zaiwen Wen
 
-*  2023.06-present: Research Assistant
+* 2023.06-present: Research Assistant
   * Department of Mathematics, The University of Hong Kong
   * Supervisor: Dr Yue Xie
   
