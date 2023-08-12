@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 
-Welcome to my website! Currently I am a fourth-year undergraduate student at Sun Yat-sen University. After that, I will be a research assistant in Department of Mathematics at the University of Hong Kong work with Dr [Yue Xie](https://yue-xie.github.io/). My research interest is algorithm study of optimization and its applications, You may find more about me in my [CV](https://hanju-wu.github.io/cv/).
-
-### I am looking for a Ph.D. position now. Feel free to contact me (wuhj@hku.hk) if interested in my profile! 
+Welcome to my website! Currently, I am a research assistant at HKU. After that, I will be a research postgraduate student (MPhil) in the Department of Mathematics at the University of Hong Kong working with Dr [Yue Xie](https://yue-xie.github.io/) and Dr [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). My research interest is algorithm study of optimization and its applications, You may find more about me in my [CV](https://hanju-wu.github.io/cv/).
