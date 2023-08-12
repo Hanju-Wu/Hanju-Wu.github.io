@@ -14,11 +14,13 @@ Education
 * B.S. in Mathematics, Sun Yat-sen University, 2019-2023
   * CGPA: 4.1/5.0 (91/100)
   * Major GPA: 4.3/5.0 (93/100)
+* M.Phil. in Mathematics, The University of Hong Kong, 2023-2025(expect)
 
 Honors and Awards(Selected)
 ======
 * 2022 First-Class Scholarship(top 5%), Sun Yat-Sen University
 * 2021 First Prize, Contemporary Undergraduate Mathematical Contest in Modeling
+* 2023 Postgraduate Scholarship (441,360 HKD), The University of Hong Kong
 
 Work&Research experience
 ======
@@ -27,7 +29,7 @@ Work&Research experience
   * Supervisor: Professor Zaiwen Wen
   * Duty: [Software implementation for proximal gradient methods](https://github.com/Hanju-Wu/OptSuite)
 
-* 2023.06-present: Research Assistant
+* 2023.06-2023.12: Research Assistant
   * Department of Mathematics, The University of Hong Kong
   * Supervisor: Dr Yue Xie
 
