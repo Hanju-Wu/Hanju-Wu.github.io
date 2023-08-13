@@ -32,6 +32,7 @@ Work&Research experience
 * 2023.06-2023.12: Research Assistant
   * Department of Mathematics, The University of Hong Kong
   * Supervisor: Dr Yue Xie
+  * Research topic: Complexity and convergence properties of scaled two-metric projection method for Bound-constrained Optimization
 
 * 2022.12-2023.04: Undergraduate Thesis
   * Topic: [Complexity of two-metric projection method for Bound-constrained Optimization](https://Hanju-Wu.github.io/files/slide.pdf)
