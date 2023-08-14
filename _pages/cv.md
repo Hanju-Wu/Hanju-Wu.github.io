@@ -24,7 +24,7 @@ Honors and Awards(Selected)
 
 Work&Research experience
 ======
-* 2022.07-2022.09: Research Assistant
+* 2022.07-2022.09: Research Intern
   * BICMR, Peking University
   * Supervisor: Professor Zaiwen Wen
   * Duty: [Software implementation for proximal gradient methods](https://github.com/Hanju-Wu/OptSuite)
