@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hanju Wu"
   avatar           : "hanju wu.jpeg"
-  bio              : "RA @ HKU"
+  bio              : "MPhil @ HKU"
   location         : "Hong Kong, China"
   employer         :  
   pubmed           : 
   googlescholar    : 
-  email            : "wuhj@hku.hk"
+  email            : "wuhj@hku.hk","wuhanju@connect.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
