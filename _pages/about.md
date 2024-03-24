@@ -13,4 +13,4 @@ Welcome to my website! Currently, I am a research postgraduate student (MPhil) i
 
 ## News
 
-A paper accepted by 2024 Informs Optimization Society Conference [ A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing)
+A paper accepted by 2024 Informs Optimization Society Conference: [ A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing)
