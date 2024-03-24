@@ -40,7 +40,7 @@ Work&Research experience
  
 Publication
 ======
-*  [A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing), by Hanju Wu and Yue Xie.
+* [A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing), by Hanju Wu and Yue Xie
   * 2024 Informs Optimization Society Conference
 
 Skills
