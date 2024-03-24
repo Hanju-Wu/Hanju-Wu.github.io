@@ -37,6 +37,10 @@ Work&Research experience
 * 2022.12-2023.04: Undergraduate Thesis
   * Topic: [Complexity of two-metric projection method for Bound-constrained Optimization](https://Hanju-Wu.github.io/files/slide.pdf)
   * Advisor: Dr Yue Xie
+ 
+Publication
+======
+*  [A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing), by Hanju Wu and Yue Xie. 
 
 Skills
 ======
