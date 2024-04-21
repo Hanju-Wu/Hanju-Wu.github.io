@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! Currently, I am a research postgraduate student (MPhil) in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong under supervision of Dr [Yue Xie](https://yue-xie.github.io/) and Dr [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). My research interest is algorithm study of optimization and its applications, You may find more about me in my [CV](https://hanju-wu.github.io/cv/).
+Welcome to my website! Currently, I am a research postgraduate student (MPhil) in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong under supervision of Dr [Yue Xie](https://yue-xie.github.io/) and Dr [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). My research interest is mathematical optimization especially optimization on manifolds, You may find more about me in my [CV](https://hanju-wu.github.io/cv/).
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vnAq5fcEXGRQru0aRE9Vl84S7ZWXqXCGjkqnREdNz8I&cl=ffffff&w=a"></script>
 
