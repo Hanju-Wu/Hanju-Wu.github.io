@@ -47,7 +47,8 @@ Skills
 ======
 * Programming:
   * C/C++
-  * MATLAB 
+  * MATLAB
+  * Julia
 * Writing
   * LaTex
 * Language
