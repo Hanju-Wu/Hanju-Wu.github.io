@@ -16,3 +16,5 @@ Welcome to my website! Currently, I am a fully-funded research postgraduate stud
 ## News
 
 A paper accepted by 2024 Informs Optimization Society Conference: [ A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing)
+
+Our work [ On resolution of $\ell_1$-norm minimization via a Two-Metric Adaptive Projection Method](https://arxiv.org/abs/2504.12260) has been uploaded to Arxiv.
