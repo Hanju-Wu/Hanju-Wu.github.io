@@ -13,8 +13,6 @@ Welcome to my website! Currently, I am a fully-funded research postgraduate stud
 
 My research interest is mathematical optimization and focus on the relationship between active set (manifold) and geometry, this property is useful in algorithm design since a large-scale (nonsmooth) optimization problem could be reduced locally to low-dimensional smooth optimization on active set (manifold). Here is the introduction of part of my research [slide](https://hanju-wu.github.io/files/research.pdf).
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vnAq5fcEXGRQru0aRE9Vl84S7ZWXqXCGjkqnREdNz8I&cl=ffffff&w=a"></script>
-
 ## News
 
 A paper accepted by 2024 Informs Optimization Society Conference: [ A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing)
