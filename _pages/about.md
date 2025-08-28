@@ -13,7 +13,7 @@ Welcome to my website! Currently, I am a PhD candidate in the [Department of Mat
 
 My research interest is mathematical optimization, recently focus on active set (manifold) and geometry for nonsmooth optimization, this property is useful in algorithm design since a large-scale (nonsmooth) optimization problem could be reduced locally to low-dimensional smooth optimization on active set (manifold). Here is the introduction of part of my research [slide](https://hanju-wu.github.io/files/research.pdf).
 
-Discussion and collaborate about optimization are welcome.
+Discussion and collaboration about optimization are welcome.
 
 ## News
 
