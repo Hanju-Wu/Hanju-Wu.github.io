@@ -9,17 +9,8 @@ redirect_from:
 ---
 
 
-Welcome to my website! Currently, I am a PhD candidate in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong under supervision of Dr [Yue Xie](https://yue-xie.github.io/) and Prof [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). 
+Hi! Currently, I am a PhD candidate in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong, supervised by Dr [Yue Xie](https://yue-xie.github.io/) and Prof [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). 
 
-My research interest is mathematical optimization, recently focus on active set (manifold) and geometry for nonsmooth optimization, this property is useful in algorithm design since a large-scale (nonsmooth) optimization problem could be reduced locally to low-dimensional smooth optimization on active set (manifold). Here is the introduction of part of my research [slide](https://hanju-wu.github.io/files/research.pdf).
+My research interests lie in mathematical optimization, particularly algorithms and theory. Previously, we focused on nonsmooth composite optimization problems. We proposed a novel two-metric projection algorithm for $\ell_1$-norm regularization problems, which significantly improves the numerical performance of previous extensions of two-metric projection methods from bound constraints to $\ell_1$-norm regularization. Currently, we study optimality (regularity) conditions for partly smooth functions. Partial smoothness is an important notion in optimization, connecting differential and variational geometry and providing a foundation for classical ideas such as active sets, sensitivity analysis, and optimality conditions. For the error bound condition, a widely used regularity condition in the convergence analysis of optimization algorithms, we provide a metric and geometric perspective. We show that, under a nondegeneracy condition, the error bound property is equivalent in the ambient space and on the active manifold associated with partial smoothness. To further understand degenerate cases, we are exploring stratification theory as a possible framework.
 
-Discussion and collaboration about optimization are welcome.
-
-## News
-
-A paper accepted by 2024 Informs Optimization Society Conference: [ A Study on Two-Metric Projection Methods](https://sites.google.com/view/ios2024refereed?usp=sharing)
-
-Our work [On resolution of $\ell_1$-norm minimazation via a two-metric adaptive projection method](https://arxiv.org/abs/2504.12260) has been uploaded to arxiv.
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vnAq5fcEXGRQru0aRE9Vl84S7ZWXqXCGjkqnREdNz8I&cl=ffffff&w=a"></script>
+Here is the introduction to part of my research [slide](https://hanju-wu.github.io/files/research.pdf).
