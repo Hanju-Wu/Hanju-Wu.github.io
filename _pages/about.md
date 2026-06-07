@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! Currently, I am a PhD candidate in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong, supervised by Dr [Yue Xie](https://yue-xie.github.io/) and Prof [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). Here is my [CV](https://hanju-wu.github.io/files/wu_hanju_cv.pdf)
+Hi! Currently, I am a PhD candidate in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong, supervised by Dr [Yue Xie](https://yue-xie.github.io/) and Prof [Zhiwen Zhang](https://hkumath.hku.hk/~zhangzw/). Here is my [CV](https://hanju-wu.github.io/files/wu_hanju_cv.pdf).
 
 ## Research overview
 
